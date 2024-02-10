@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Trees (Bureau of Street Services)</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This is an historical inventory of trees along the streets of the City.Notes: Please be aware that this dataset is not actively being maintainedRefresh Rate:  This is an historical inventory and this dataset not actively being maintained.</abstract>
+            <purpose>This is an historical inventory of trees along the streets of the City.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>NavigateLA</themekey>
+                <themekey>Los Angeles</themekey>
+                <themekey>LA</themekey>
+                <themekey>City of LA</themekey>
+                <themekey>BOE</themekey>
+                <themekey>BSS</themekey>
+                <themekey>Bureau of Street Services</themekey>
+                <themekey>streets</themekey>
+                <themekey>trees</themekey>
+                <themekey>a sustainable city</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>None</useconst>
+    </idinfo>
+    <metainfo>
+        <metd>20201119</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
